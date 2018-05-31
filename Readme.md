@@ -1,7 +1,7 @@
 # Личный проект «Девайс»
 
 * Студент: [Егор Фомичев](https://up.htmlacademy.ru/htmlcss/21/user/275331).
-* Наставник: `Неизвестно`.
+* Наставник: [Сергей Зубов](https://htmlacademy.ru/profile/serj).
 
 ---
 
